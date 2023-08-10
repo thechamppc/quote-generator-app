@@ -11,7 +11,7 @@ This project focuses mostly on CSS and Flexbox in general. There's a tiny bit of
 ## Features
 
 - Responsive for desktop and mobile phones
-- Generates random quotes by making API calls. Refer [[quotable.com](https://github.com/lukePeavey/quotable)]
+- Generates random quotes by making API calls. [Refer [quotable.com](https://github.com/lukePeavey/quotable)]
 - Smooth and elegant design
 
 
